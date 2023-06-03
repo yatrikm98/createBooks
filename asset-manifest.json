@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/createBooks/static/css/main.61b0da5b.css",
+    "main.js": "/createBooks/static/js/main.c6276533.js",
+    "static/js/787.635aedaa.chunk.js": "/createBooks/static/js/787.635aedaa.chunk.js",
+    "index.html": "/createBooks/index.html",
+    "main.61b0da5b.css.map": "/createBooks/static/css/main.61b0da5b.css.map",
+    "main.c6276533.js.map": "/createBooks/static/js/main.c6276533.js.map",
+    "787.635aedaa.chunk.js.map": "/createBooks/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b0da5b.css",
+    "static/js/main.c6276533.js"
+  ]
+}
